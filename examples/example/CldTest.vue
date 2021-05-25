@@ -1,3 +1,0 @@
-<template>
-    <cId-test/>
-</template>
